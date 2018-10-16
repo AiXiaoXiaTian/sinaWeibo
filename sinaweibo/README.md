@@ -41,6 +41,5 @@ pip install -r requirements.txt
 
 sinaWeibo is published under GNU GPLv3 License. See the LICENSE file for more.
 
-![](./doc/donate-wechatpay.png)
 
 ##打码
